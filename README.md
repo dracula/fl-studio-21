@@ -1,21 +1,17 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [FL Studio 21](https://www.image-line.com/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [FL Studio 21](https://www.image-line.com/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+Drag the 'Dracula.flstheme' file into ~Image-Line\FL Studio 21\Artwork\Themes.
+NOTE: Only works in FL Studio 21 official theme loader!
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
-
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
-
+This theme is maintained by Bill Tansey.                                             |
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
