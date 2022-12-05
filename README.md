@@ -2,7 +2,7 @@
 
 > A dark theme for [FL Studio 21](https://www.image-line.com/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./FL Screenshot.png)
 
 ## Install
 
