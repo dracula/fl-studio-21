@@ -2,7 +2,7 @@
 
 > A dark theme for [FL Studio 21](https://www.image-line.com/).
 
-![Screenshot](./FL Screenshot.png)
+![Screenshot](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/master/FLS%20Dracula.png?raw=true)
 
 ## Install
 
