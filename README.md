@@ -6,9 +6,9 @@
 
 ## Install
 
--Drag the 'Dracula.flstheme' file into ~Image-Line\FL Studio 21\Artwork\Themes.\n
--Go to 'Options', 'Theme Settings', and click on the theme to activate.\n
-NOTE: Only works in FL Studio 21 official theme loader!
+-Drag the 'Dracula.flstheme' file into ~Image-Line\FL Studio 21\Artwork\Themes, Go to 'Options', 'Theme Settings', and click on the theme to activate.
+
+NOTE: Only works in FL Studio 21 (using official theme loader)!
 
 ## Team
 
