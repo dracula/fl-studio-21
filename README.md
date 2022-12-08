@@ -4,6 +4,8 @@
 
 ![Screenshot](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/master/FLS%20Dracula.png?raw=true)
 
+![Screenshot](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/6ea75ffb351c8b7cf80b2232f027101b96b86483/Compare.png)
+
 ## Install
 
 -Download the [Dracula.zip](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/master/Dracula.zip) file, extract, and drag folder containing .flstheme and .png to: ~Image-Line\FL Studio 21\Artwork\Themes. Go to 'Options', 'Theme Settings', and click on the theme to activate.
