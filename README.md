@@ -1,20 +1,21 @@
-# Dracula for [FL Studio 21](https://www.image-line.com/)
+# Dracula for [FL Studio 21](https://www.image-line.com)
 
-> A dark theme for [FL Studio 21](https://www.image-line.com/).
+> A dark theme for [FL Studio 21](https://www.image-line.com).
 
-![Screenshot](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/master/FLS%20Dracula.png?raw=true)
-
-![Screenshot](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/6ea75ffb351c8b7cf80b2232f027101b96b86483/Compare.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
--Download the [Dracula.zip](https://github.com/TanZboi/Dracula-for-FL-Studio-21/blob/master/Dracula.zip) file, extract, and drag folder containing .flstheme and .png to: ~Image-Line\FL Studio 21\Artwork\Themes. Go to 'Options', 'Theme Settings', and click on the theme to activate.
-
-NOTE: Only works in FL Studio 21 (using official theme loader)!
+All instructions can be found at [draculatheme.com/fl-studio-21](https://draculatheme.com/fl-studio-21).
 
 ## Team
 
-This theme is maintained by [Bill Tansey](https://github.com/TanZboi).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/fl-studio-21/graphs/contributors).
+
+| [![Bill Tansey](https://github.com/TanZboi.png?size=100)](https://github.com/TanZboi) |
+| ------------------------------------------------------------------------------------- |
+| [Bill Tansey](https://github.com/TanZboi)                                             |
+
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
