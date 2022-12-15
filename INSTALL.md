@@ -5,12 +5,12 @@
 The best way to use the theme is to download it manually, however you can install the theme and keep up to date by cloning the repository:
 
 ```sh
-    git clone https://github.com/dracula/fl-studio-21.git
+git clone https://github.com/dracula/fl-studio-21.git
 ```
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/fl-studio-21/blob/main/dracula.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/fl-studio-21/raw/main/dracula.zip) option and unzip them.
 
 #### Activating theme
 
