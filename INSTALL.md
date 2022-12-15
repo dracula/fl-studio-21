@@ -10,7 +10,7 @@ git clone https://github.com/dracula/fl-studio-21.git
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/fl-studio-21/raw/main/dracula.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/fl-studio-21/blob/main/Dracula.zip) option and unzip them.
 
 #### Activating theme
 
