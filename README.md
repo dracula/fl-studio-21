@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/fl-studio-21](https://dracula
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/fl-studio-21/graphs/contributors).
 
-| [![Bill Tansey](https://github.com/TanZboi.png?size=100)](https://github.com/TanZboi) |
-| ------------------------------------------------------------------------------------- |
-| [Bill Tansey](https://github.com/TanZboi)                                             |
+| [![Bill Tansey](https://github.com/TanZboi.png?size=100)](https://github.com/TanZboi) | [![EDM115](https://github.com/EDM115.png?size=100)](https://github.com/EDM115) |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Bill Tansey](https://github.com/TanZboi)                                             |  [EDM115](https://github.com/EDM115)                                           |
 
 ## Community
 
